@@ -62,6 +62,26 @@ Busco crear soluciones tecnológicas útiles, prácticas y con impacto real. Me 
 
 ---
 
+## 🧪 Proyectos personales
+
+- 🔐 **[Challenge Encriptador - Alura](https://github.com/anbeld12/Challenge-Encriptador-Alura)**  
+  Aplicación web que encripta y desencripta mensajes usando reglas específicas de reemplazo de vocales.  
+  HTML, CSS y JavaScript. Incluye interfaz con dos áreas de texto y funciones para copiar resultados.
+
+- 📚 **[Literalura - Biblioteca con API Gutendex](https://github.com/anbeld12/Challenge-Literalura_BackEnd)**  
+  Aplicación de línea de comandos que permite buscar libros y autores mediante consultas a Gutendex y almacenar los resultados en una base de datos.  
+  Incluye funcionalidades como top 10 libros, búsqueda por idioma, año, autores vivos, entre otros.
+
+- 💱 **[Conversor de Monedas](https://github.com/anbeld12/Challenge-ConversorDeMonedas_BackEnd)**  
+  Conversor de monedas usando la API ExchangeRate-API.  
+  Permite buscar monedas, convertir montos, generar historial en archivos JSON y mostrar información detallada de las conversiones.
+
+- 🧑‍🏫 **[ForoHub: API REST con Spring Boot](https://github.com/anbeld12/Challenge-ForoHub_BackEnd)**  
+  API CRUD para una plataforma educativa con autenticación mediante JWT.  
+  Gestión de usuarios, cursos, tópicos y respuestas. Incluye seguridad, roles, documentación OpenAPI y lógica completa de registro, login, y control de acceso.
+
+---
+
 ## 📫 Conecta conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/)
