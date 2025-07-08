@@ -90,7 +90,7 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
 ## 📫 Conecta conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/)
-- [Correo](mailto:anbeltrang@unal.edu.com)
+- [Correo](mailto:anbeltrang@unal.edu.co)
 ---
 
 > 💡 *"La educación no cambia el mundo, cambia a las personas que van a cambiar el mundo."*  
