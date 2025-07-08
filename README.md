@@ -6,10 +6,36 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🧠 Sobre mí
 
-Desde 2023 estudio Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia. Me apasiona el desarrollo de software, la automatización, la seguridad informática y el aprendizaje continuo.  
-Busco crear soluciones tecnológicas útiles, prácticas y con impacto real. Me esfuerzo por mejorar cada día como profesional y como persona.
+¡Hola de nuevo! Actualmente estoy enfocado en potenciar mis habilidades técnicas y desarrollar proyectos con impacto real. Estas son algunas de las áreas en las que estoy trabajando y creciendo:
+
+- 🧰 **Lenguajes:** Java, JavaScript y Python
+- 🗃️ **Bases de datos:** SQL con MySQL y PostgreSQL
+- ⚙️ **Frameworks:** Spring Boot
+- 🔁 **Control de versiones:** Git y GitHub para trabajo colaborativo
+
+Además, me gusta aprender haciendo, enfrentar nuevos retos y construir soluciones que funcionen de verdad. ✨
+
+---
+
+## 🛠️ Tecnologías con las que he trabajado
+
+### 🧑‍💻 Backend y Bases de Datos
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+
+### ⚙️ Herramientas y Otros
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
 ---
 
@@ -32,27 +58,6 @@ Busco crear soluciones tecnológicas útiles, prácticas y con impacto real. Me 
   Gestión de usuarios, cursos, tópicos y respuestas. Incluye seguridad, roles, documentación OpenAPI y lógica completa de registro, login, y control de acceso.
 
 ---
-
-## 🛠️ Tecnologías y herramientas
-
-### 🧑‍💻 Backend y Bases de Datos
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-
-### ⚙️ Herramientas y Otros
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
-
----
-
 ## 🧾 Certificaciones destacadas
 
 ### Desarrollo Web
@@ -85,7 +90,17 @@ Busco crear soluciones tecnológicas útiles, prácticas y con impacto real. Me 
 ## 📫 Conecta conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/)
+- [Correo](mailto:anbeltrang@unal.edu.com)
+---
+
+> 💡 *"La educación no cambia el mundo, cambia a las personas que van a cambiar el mundo."*  
+> — **Paulo Freire**
 
 ---
 
-> "La educación no cambia el mundo, cambia a las personas que van a cambiar el mundo." – Paulo Freire
+## 🙌 Gracias
+
+Gracias por visitar mi perfil 🙌  
+Estoy siempre abierto a colaborar, aprender en equipo o recibir feedback. ¡Nos leemos pronto!
+
+---
