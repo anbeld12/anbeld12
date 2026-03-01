@@ -1,6 +1,6 @@
-# 👨‍💻 ¡Hola, mundo! Anny Sofía Velandia Jaimes 🌎✨
+# 👨‍💻 ¡Hola, mundo! Soy Angel David Beltran Garcia 🌎✨
 
-🎓 Estudiante de Ingeniería de Sistemas y Computación en la Pontificia Universidad Javeriana 
+🎓 Estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia  
 🔧 Backend Developer en formación | 🛡️ Analista Junior en Ciberseguridad en formación  
 🧠 Curioso por naturaleza, con muchas ganas de aprender y construir soluciones que realmente sirvan.
 
