@@ -87,26 +87,16 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
 
 ---
 ## Mis Estadísticas
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">  
-  <picture style="flex: 1; max-width: 400px;">
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anbeld12&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=anbeld12&theme=light_github" alt="Anurag's GitHub stats" />
-  </picture>
 
-  <picture style="flex: 1; max-width: 400px;">
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
-</div>
+<picture style="flex: 1; max-width: 400px;">
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=4&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=4&theme=light_github" alt="Top Langs" />
+</picture>
 
 ---
-
 ## 📫 Conecta conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/)
