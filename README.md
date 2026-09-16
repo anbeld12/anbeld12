@@ -58,15 +58,23 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
   Gestión de usuarios, cursos, tópicos y respuestas. Incluye seguridad, roles, documentación OpenAPI y lógica completa de registro, login, y control de acceso.
 
 ---
-## Mis Estadísticas
+## 📊 Mis Estadísticas
 
-<picture style="flex: 1; max-width: 400px;">
-  <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=4&theme=dark_github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=4&theme=light_github" alt="Top Langs" />
-</picture>
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="width: 50%; padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anbeld12&theme=light&border_radius=10&background=ffffff" alt="GitHub Streak" />
+      </td>
+      <td align="center" style="width: 50%; padding: 10px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=5&theme=light_github&layout=compact&background=ffffff" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anbeld12&langs_count=5&theme=light_github&layout=compact&background=ffffff" alt="Top Languages" style="background: #ffffff;" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ## 📫 Conecta conmigo
