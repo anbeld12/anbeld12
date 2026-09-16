@@ -22,7 +22,7 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
 ## 🛠️ Tecnologías con las que he trabajado
 
 ### 🧑‍💻 Backend y Bases de Datos
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
@@ -58,25 +58,6 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
   Gestión de usuarios, cursos, tópicos y respuestas. Incluye seguridad, roles, documentación OpenAPI y lógica completa de registro, login, y control de acceso.
 
 ---
-## 📫 Conecta conmigo
-
-¿Tienes alguna propuesta, quieres colaborar en un proyecto o simplemente charlar sobre desarrollo web y tecnología? ¡No dudes en escribirme!
-
-<div align="center">
-  <a href="https://angelbeltran.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-angelbeltran.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" />
-  </a>
-  <a href="https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anbeltrang@unal.edu.co" target="_blank">
-    <img src="https://img.shields.io/badge/-Correo_Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-  </a>
-  <a href="https://www.instagram.com/anbeltrang/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
----
 ## Mis Estadísticas
 
 <picture style="flex: 1; max-width: 400px;">
@@ -99,8 +80,8 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
   <a href="https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:anbeltrang@unal.edu.co" target="_blank">
-    <img src="https://img.shields.io/badge/-Correo_Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  <a href="mailto:angelbeltran.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Correo_Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
   <a href="https://www.instagram.com/anbeltrang/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
