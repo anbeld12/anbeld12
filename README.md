@@ -99,8 +99,22 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
 ---
 ## 📫 Conecta conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/)
-- [Correo](mailto:anbeltrang@unal.edu.co)
+¿Tienes alguna propuesta, quieres colaborar en un proyecto o simplemente charlar sobre desarrollo web y tecnología? ¡No dudes en escribirme!
+
+<div align="center">
+  <a href="https://angelbeltran.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-angelbeltran.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web" />
+  </a>
+  <a href="https://www.linkedin.com/in/angel-david-beltran-garcia-1616b4273/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anbeltrang@unal.edu.co" target="_blank">
+    <img src="https://img.shields.io/badge/-Correo_Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://www.instagram.com/anbeltrang/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 ---
 
 > 💡 *"La educación no cambia el mundo, cambia a las personas que van a cambiar el mundo."*  
