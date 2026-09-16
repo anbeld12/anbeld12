@@ -115,8 +115,8 @@ Además, me gusta aprender haciendo, enfrentar nuevos retos y construir solucion
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
----
 
+---
 > 💡 *"La educación no cambia el mundo, cambia a las personas que van a cambiar el mundo."*  
 > — **Paulo Freire**
 
